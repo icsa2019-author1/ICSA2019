@@ -1,0 +1,8 @@
+.metadata/
+bin/
+.launch/
+Trash/
+JavaTest/
+LibraryExample/
+*.sh
+.project
